@@ -6,14 +6,14 @@ export const services = [
   {slug:'paid-advertising',title:text('付费广告投放','Paid Advertising (PPC)'),image:'service-ads.svg',color:'blue',description:text('通过精准的 Google、Meta 等平台广告，让投放预算转化为可衡量的业务增长。','Maximize ROI through targeted ad campaigns on Google, Meta, and beyond designed to boost visible growth.'),intro:text('让每次投放都围绕明确的业务目标。从受众细分到创意测试和转化追踪，持续优化广告表现。','Turn your advertising budget into measurable growth with audience targeting, creative testing, and continuous performance optimization.'),steps:[text('投放策略与受众研究','Campaign Strategy & Audience Research'),text('广告创意与文案','Ad Creative & Copywriting'),text('多平台投放管理','Multi-platform Campaign Management'),text('转化追踪与优化','Conversion Tracking & Optimization')]},
 ]
 export const works = [
-  {slug:'astra-glow',name:'Astra Glow',client:'Astra',category:'SEO',year:'2023',image:'work-1.png'},
-  {slug:'nova-cosmetics',name:'Nova Cosmetics',client:'Nova',category:'PPC',year:'2023',image:'work-2.png'},
-  {slug:'celeste-beauty',name:'Celeste Beauty',client:'Celeste',category:'SSL',year:'2021',image:'work-3.jpg'},
-  {slug:'elysia-cosmetics',name:'Elysia Cosmetics',client:'Elysia',category:'UI',year:'2022',image:'work-4.png'},
-  {slug:'serenva-beauty',name:'Serenva Beauty',client:'Serenva',category:'UX',year:'2023',image:'work-5.png'},
-  {slug:'lunara-bloom',name:'Lunara Bloom',client:'Lunara',category:'EMAIL',year:'2024',image:'work-6.png'},
-  {"slug":"aviqa-beauty","name":"Aviqa Beauty","client":"Aviqa","category":"GRAPHIC","year":"2024","image":"ref-WSF8cIdwQHQGp0M28URgoWUCU.jpg"},
-  {"slug":"aurielle-cosmetics","name":"Aurielle Cosmetics","client":"Aurielle","category":"EDITING","year":"2020","image":"ref-JICyB7guoDFBkVoxrLlsfEykY.png"},
+  {slug:'astra-glow',name:'Astra Glow',client:'Astra',category:'SEO',year:'2023',image:'work-1.webp'},
+  {slug:'nova-cosmetics',name:'Nova Cosmetics',client:'Nova',category:'PPC',year:'2023',image:'work-2.webp'},
+  {slug:'celeste-beauty',name:'Celeste Beauty',client:'Celeste',category:'SSL',year:'2021',image:'work-3.webp'},
+  {slug:'elysia-cosmetics',name:'Elysia Cosmetics',client:'Elysia',category:'UI',year:'2022',image:'work-4.webp'},
+  {slug:'serenva-beauty',name:'Serenva Beauty',client:'Serenva',category:'UX',year:'2023',image:'work-5.webp'},
+  {slug:'lunara-bloom',name:'Lunara Bloom',client:'Lunara',category:'EMAIL',year:'2024',image:'work-6.webp'},
+  {"slug":"aviqa-beauty","name":"Aviqa Beauty","client":"Aviqa","category":"GRAPHIC","year":"2024","image":"ref-WSF8cIdwQHQGp0M28URgoWUCU.webp"},
+  {"slug":"aurielle-cosmetics","name":"Aurielle Cosmetics","client":"Aurielle","category":"EDITING","year":"2020","image":"work-4.webp"},
 ]
 export const articles = [
   {slug:'the-future-of-digital-marketing',title:text('数字营销的未来','The Future of Digital Marketing'),year:'2023'},
@@ -26,7 +26,7 @@ export const articles = [
   {slug:'turning-audiences',title:text('从受众到品牌社群','Turning Audiences'),year:'2022'},
   {slug:'from-idea-to-iconic-brand',title:text('从想法到标志性品牌','From Idea to Iconic Brand'),year:'2021'},
   {slug:'building-an-omnichannel',title:text('建立一致的全渠道体验','Building an Omnichannel'),year:'2024'},
-].map((article,index)=>({...article,image:`blog-${index+1}.png`}))
+].map((article,index)=>({...article,image:`blog-${index+1}.webp`}))
 export const team = [
   ['Ethan Cole',text('创始人兼首席执行官','Founder & CEO')],['Ava Mitchell',text('创意总监','Creative Director')],['Liam Parker',text('营销策略师','Marketing Strategist')],['Sophia Reed',text('社交媒体经理','Social Media Manager')],['Noah Bennett',text('SEO 与内容负责人','SEO & Content Lead')],['Emma Davis',text('广告投放专家','Paid Ads Specialist')],['Mason Clark',text('品牌设计师','Brand Designer')],['Olivia Grant',text('客户成功经理','Client Success Manager')],
 ] satisfies [string,Copy][]

@@ -3,7 +3,7 @@ import {useRef,useState} from 'react'
 import {motion,useReducedMotion} from 'framer-motion'
 import {asset,text} from '../config'
 import {useZentra} from './Shell'
-const images=['about-1.png','about-2.png','about-3.jpg']
+const images=['about-1.webp','about-2.webp','about-3.webp']
 export function Gallery(){
  const{t}=useZentra(),[index,setIndex]=useState(0),dragged=useRef(false),reduce=useReducedMotion()
  const move=(direction:number)=>setIndex(current=>(current+direction+images.length)%images.length)
