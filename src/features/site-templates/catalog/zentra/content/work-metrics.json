@@ -1,0 +1,186 @@
+{
+  "astra-glow": [
+    {
+      "value": 310,
+      "label": {
+        "en": "increase in organic website traffic in 8 months.",
+        "zh": "八个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 45,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 140,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "nova-cosmetics": [
+    {
+      "value": 550,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 75,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 180,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "celeste-beauty": [
+    {
+      "value": 300,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 50,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 135,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "elysia-cosmetics": [
+    {
+      "value": 250,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 65,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 165,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "serenva-beauty": [
+    {
+      "value": 270,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 68,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 185,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "lunara-bloom": [
+    {
+      "value": 450,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 55,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 170,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "aviqa-beauty": [
+    {
+      "value": 420,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 75,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 180,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ],
+  "aurielle-cosmetics": [
+    {
+      "value": 370,
+      "label": {
+        "en": "increase in organic website traffic in 6 months.",
+        "zh": "六个月内自然网站流量增长。"
+      }
+    },
+    {
+      "value": 75,
+      "label": {
+        "en": "Reduced bounce rate by 45% with optimized UX and structure.",
+        "zh": "通过优化用户体验与结构，跳出率下降 45%。"
+      }
+    },
+    {
+      "value": 160,
+      "label": {
+        "en": "growth in lead conversions from SEO-driven content.",
+        "zh": "由 SEO 内容带来的潜在客户转化增长。"
+      }
+    }
+  ]
+}

@@ -12,6 +12,8 @@ export const works = [
   {slug:'elysia-cosmetics',name:'Elysia Cosmetics',client:'Elysia',category:'UI',year:'2022',image:'work-4.png'},
   {slug:'serenva-beauty',name:'Serenva Beauty',client:'Serenva',category:'UX',year:'2023',image:'work-5.png'},
   {slug:'lunara-bloom',name:'Lunara Bloom',client:'Lunara',category:'EMAIL',year:'2024',image:'work-6.png'},
+  {"slug":"aviqa-beauty","name":"Aviqa Beauty","client":"Aviqa","category":"GRAPHIC","year":"2024","image":"ref-WSF8cIdwQHQGp0M28URgoWUCU.jpg"},
+  {"slug":"aurielle-cosmetics","name":"Aurielle Cosmetics","client":"Aurielle","category":"EDITING","year":"2020","image":"ref-JICyB7guoDFBkVoxrLlsfEykY.png"},
 ]
 export const articles = [
   {slug:'the-future-of-digital-marketing',title:text('数字营销的未来','The Future of Digital Marketing'),year:'2023'},

@@ -1,0 +1,255 @@
+{
+  "checkedAt": "2026-11-03T14:19:21.350Z",
+  "rootCause": "旧清单从首页六项精选作品建立，没有与作品总览八条详情链接交叉核对；顶部读取计数初态为0，因此遗漏作品统计区。",
+  "fix": "新增Aviqa与Aurielle详情和图片来源；首页保留六项，总览八项。逐页实际滚动读取八组终值，单独维护work-metrics.json并使用滚动计数。回归测试同时检查运行时路由、交付元数据和每个案例指标。",
+  "pages": 30,
+  "routes": 60,
+  "browser": [
+    {
+      "device": "desktop",
+      "client": 1430,
+      "images": [],
+      "metrics": [
+        "420%",
+        "75%",
+        "180%"
+      ],
+      "url": "http://localhost:3061/work/aviqa-beauty",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "device": "desktop",
+      "client": 1430,
+      "images": [],
+      "metrics": [
+        "370%",
+        "75%",
+        "160%"
+      ],
+      "url": "http://localhost:3061/work/aurielle-cosmetics",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "device": "tablet",
+      "client": 824,
+      "images": [],
+      "metrics": [
+        "420%",
+        "75%",
+        "180%"
+      ],
+      "url": "http://localhost:3061/work/aviqa-beauty",
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824
+    },
+    {
+      "device": "tablet",
+      "client": 824,
+      "images": [],
+      "metrics": [
+        "370%",
+        "75%",
+        "160%"
+      ],
+      "url": "http://localhost:3061/work/aurielle-cosmetics",
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824
+    },
+    {
+      "device": "mobile",
+      "client": 380,
+      "images": [],
+      "metrics": [
+        "420%",
+        "75%",
+        "180%"
+      ],
+      "url": "http://localhost:3061/work/aviqa-beauty",
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380
+    },
+    {
+      "device": "mobile",
+      "client": 380,
+      "images": [],
+      "metrics": [
+        "370%",
+        "75%",
+        "160%"
+      ],
+      "url": "http://localhost:3061/work/aurielle-cosmetics",
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380
+    },
+    {
+      "device": "narrow",
+      "client": 310,
+      "images": [],
+      "metrics": [
+        "420%",
+        "75%",
+        "180%"
+      ],
+      "url": "http://localhost:3061/work/aviqa-beauty",
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310
+    },
+    {
+      "device": "narrow",
+      "client": 310,
+      "images": [],
+      "metrics": [
+        "370%",
+        "75%",
+        "160%"
+      ],
+      "url": "http://localhost:3061/work/aurielle-cosmetics",
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310
+    }
+  ],
+  "counters": [
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/astra-glow",
+      "values": [
+        "310%",
+        "45%",
+        "140%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/nova-cosmetics",
+      "values": [
+        "550%",
+        "75%",
+        "180%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/celeste-beauty",
+      "values": [
+        "300%",
+        "50%",
+        "135%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/elysia-cosmetics",
+      "values": [
+        "250%",
+        "65%",
+        "165%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/serenva-beauty",
+      "values": [
+        "270%",
+        "68%",
+        "185%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/lunara-bloom",
+      "values": [
+        "450%",
+        "55%",
+        "170%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/aviqa-beauty",
+      "values": [
+        "420%",
+        "75%",
+        "180%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    },
+    {
+      "client": 1430,
+      "url": "http://localhost:3061/work/aurielle-cosmetics",
+      "values": [
+        "370%",
+        "75%",
+        "160%"
+      ],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430
+    }
+  ],
+  "referenceMetrics": "原站部分描述固定写跳出率下降45%，同时显示不同计数值。忠实保留这项原站差异，未将演示数值作为真实业绩。",
+  "limits": [
+    "精确原站逐帧曲线与全部系统减少动态效果仍未完成，见motion.json"
+  ]
+}

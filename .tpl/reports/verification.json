@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T13:29:58.319Z",
+  "checkedAt": "2026-11-03T14:19:21.352Z",
   "sourceCommit": null,
-  "sourceDigest": "fe5359f5ed8bb1d30d095329ddff949a5aa1677116adc02f1f608682b8173842",
+  "sourceDigest": "ace38fbb1843f954369eaaa4929c42d6256aa9dc5b8db748aaa6a4aa3b933a44",
   "environment": {
     "platform": "linux (local WSL; Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T13:27:02.158Z",
-      "finishedAt": "2026-11-03T13:27:03.295Z"
+      "startedAt": "2026-11-03T14:07:31.137Z",
+      "finishedAt": "2026-11-03T14:07:32.151Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T13:27:03.299Z",
-      "finishedAt": "2026-11-03T13:27:04.889Z"
+      "startedAt": "2026-11-03T14:07:32.155Z",
+      "finishedAt": "2026-11-03T14:07:33.710Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T13:27:04.893Z",
-      "finishedAt": "2026-11-03T13:27:07.895Z"
+      "startedAt": "2026-11-03T14:07:33.712Z",
+      "finishedAt": "2026-11-03T14:07:35.825Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T13:27:07.898Z",
-      "finishedAt": "2026-11-03T13:27:08.729Z"
+      "startedAt": "2026-11-03T14:07:35.828Z",
+      "finishedAt": "2026-11-03T14:07:36.741Z"
     },
     {
       "id": "build",
@@ -77,23 +77,24 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T13:27:08.733Z",
-      "finishedAt": "2026-11-03T13:27:27.473Z"
+      "startedAt": "2026-11-03T14:07:36.744Z",
+      "finishedAt": "2026-11-03T14:07:56.218Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T13:27:29.273Z",
+      "checkedAt": "2026-11-03T14:07:57.694Z",
       "stopped": true
     }
   ],
   "limitations": [
     "本报告 passed 仅指合同中安装、类型、Lint、单元测试、构建与生产候选服务检查，不代表逐帧视觉相似度验收。",
     "三端十二张截图及 320px 溢出检查已执行；全部原站页面在全部设备的动效轨迹、时长、悬浮、拖拽回弹与减少动态效果仍未逐项完成对照，不能声称完整动效验收通过。",
-    "参考站的服务、作品、十篇文章与政策已读取；中文作语义适配，政策按演示站行为修正；字体遵循模板要求的 MiSans 与 Poppins，和原站 Boldonse 存在有意差异。",
+    "参考站30个页面已读取，作品总览八项、首页精选六项、十篇文章及政策已核对；中文作语义适配，政策按演示站行为修正；字体遵循模板要求的 MiSans 与 Poppins，和原站 Boldonse 存在有意差异。",
     "图片与参考设计尚未取得商业再分发授权，listed=false。未部署，未发布源码 ZIP。",
-    "开发预览仍在本地 3061 端口运行；已停止本次生产候选实例 3062。"
+    "开发预览仍在本地 3061 端口运行；已停止本次生产候选实例 3062。",
+    "已纠正由首页精选清单导致的两项作品详情遗漏，并补齐八组实际滚动计数；完整计数值、三端新增页和回归测试见work-catalog.json。"
   ]
 }

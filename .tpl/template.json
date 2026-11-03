@@ -15,7 +15,7 @@
     "双语",
     "PC / iPad / H5"
   ],
-  "summary": "蓝白数字营销整站，28 个双语页面，包含服务、作品、十篇洞察、团队、联系与政策演示。",
+  "summary": "蓝白数字营销整站，30 个双语页面，包含服务、作品、十篇洞察、团队、联系与政策演示。",
   "accentColor": "#1769f1",
   "cover": "assets/desktop-home.webp",
   "screenshots": [
@@ -210,6 +210,20 @@
           "title": "serenva-beauty",
           "localizedTitles": {
             "en": "work/serenva-beauty"
+          }
+        },
+        {
+          "slug": "work/aviqa-beauty",
+          "title": "Aviqa Beauty",
+          "localizedTitles": {
+            "en": "Aviqa Beauty"
+          }
+        },
+        {
+          "slug": "work/aurielle-cosmetics",
+          "title": "Aurielle Cosmetics",
+          "localizedTitles": {
+            "en": "Aurielle Cosmetics"
           }
         },
         {
