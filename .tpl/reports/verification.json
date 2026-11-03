@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T14:19:21.352Z",
+  "checkedAt": "2026-11-03T14:52:50.909Z",
   "sourceCommit": null,
-  "sourceDigest": "ace38fbb1843f954369eaaa4929c42d6256aa9dc5b8db748aaa6a4aa3b933a44",
+  "sourceDigest": "a1bbfeae32112bfa1d8c555143c2b8512cc87bcd915f1d778de7e10e21620fff",
   "environment": {
     "platform": "linux (local WSL; Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:07:31.137Z",
-      "finishedAt": "2026-11-03T14:07:32.151Z"
+      "startedAt": "2026-11-03T14:43:57.573Z",
+      "finishedAt": "2026-11-03T14:43:58.887Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:07:32.155Z",
-      "finishedAt": "2026-11-03T14:07:33.710Z"
+      "startedAt": "2026-11-03T14:43:58.891Z",
+      "finishedAt": "2026-11-03T14:44:01.512Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:07:33.712Z",
-      "finishedAt": "2026-11-03T14:07:35.825Z"
+      "startedAt": "2026-11-03T14:44:01.516Z",
+      "finishedAt": "2026-11-03T14:44:04.656Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:07:35.828Z",
-      "finishedAt": "2026-11-03T14:07:36.741Z"
+      "startedAt": "2026-11-03T14:44:04.661Z",
+      "finishedAt": "2026-11-03T14:44:05.699Z"
     },
     {
       "id": "build",
@@ -77,15 +77,15 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:07:36.744Z",
-      "finishedAt": "2026-11-03T14:07:56.218Z"
+      "startedAt": "2026-11-03T14:44:05.703Z",
+      "finishedAt": "2026-11-03T14:44:26.044Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T14:07:57.694Z",
+      "checkedAt": "2026-11-03T14:44:28.686Z",
       "stopped": true
     }
   ],
@@ -95,6 +95,7 @@
     "参考站30个页面已读取，作品总览八项、首页精选六项、十篇文章及政策已核对；中文作语义适配，政策按演示站行为修正；字体遵循模板要求的 MiSans 与 Poppins，和原站 Boldonse 存在有意差异。",
     "图片与参考设计尚未取得商业再分发授权，listed=false。未部署，未发布源码 ZIP。",
     "开发预览仍在本地 3061 端口运行；已停止本次生产候选实例 3062。",
-    "已纠正由首页精选清单导致的两项作品详情遗漏，并补齐八组实际滚动计数；完整计数值、三端新增页和回归测试见work-catalog.json。"
+    "已纠正由首页精选清单导致的两项作品详情遗漏，并补齐八组实际滚动计数；完整计数值、三端新增页和回归测试见work-catalog.json。",
+    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。"
   ]
 }

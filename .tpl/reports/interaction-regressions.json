@@ -1,0 +1,121 @@
+{
+  "checkedAt": "2026-11-03T14:52:50.905Z",
+  "cause": "分页位移与手势位移共用内容层，后续图片拖动时会被零点约束拉回。",
+  "fix": "独立手势层只处理小位移与回弹，内容层维持分页偏移；屏蔽拖动后的指针点击并保留下一次普通点击。",
+  "drags": [
+    {
+      "device": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "steps": [
+        {
+          "during": {
+            "base": "matrix(1, 0, 0, 1, -255.797, 0)",
+            "count": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -59.1081, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -1314.79, 0)",
+            "count": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.25543, 0)"
+          }
+        },
+        {
+          "during": {
+            "base": "matrix(1, 0, 0, 1, -1314.79, 0)",
+            "count": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -64.9894, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -2629.58, 0)",
+            "count": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -1.2481, 0)"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -2629.58, 0)",
+        "count": "3 / 3",
+        "gesture": "none"
+      }
+    },
+    {
+      "device": "tablet",
+      "viewport": [
+        834,
+        1180
+      ],
+      "steps": [
+        {
+          "during": {
+            "base": "none",
+            "count": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -37.4037, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -757.271, 0)",
+            "count": "2 / 3",
+            "gesture": "none"
+          }
+        },
+        {
+          "during": {
+            "base": "matrix(1, 0, 0, 1, -757.271, 0)",
+            "count": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -37.3343, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -1514.54, 0)",
+            "count": "3 / 3",
+            "gesture": "none"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -1514.54, 0)",
+        "count": "3 / 3",
+        "gesture": "none"
+      }
+    },
+    {
+      "device": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "steps": [
+        {
+          "during": {
+            "base": "none",
+            "count": "2 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -16.7906, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -340, 0)",
+            "count": "2 / 3",
+            "gesture": "none"
+          }
+        },
+        {
+          "during": {
+            "base": "matrix(1, 0, 0, 1, -340, 0)",
+            "count": "3 / 3",
+            "gesture": "matrix(1, 0, 0, 1, -16.7906, 0)"
+          },
+          "after": {
+            "base": "matrix(1, 0, 0, 1, -680, 0)",
+            "count": "3 / 3",
+            "gesture": "none"
+          }
+        }
+      ],
+      "small": {
+        "base": "matrix(1, 0, 0, 1, -680, 0)",
+        "count": "3 / 3",
+        "gesture": "none"
+      }
+    }
+  ]
+}
