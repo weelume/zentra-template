@@ -1,0 +1,5 @@
+# Zentra · 数字营销模板
+
+参考站：https://zeentra.framer.website/ 。28 个页面提供中文与英文；默认中文，英文路径以 /en 开始。包含服务、六组作品、十篇文章、关于、联系和政策。
+
+先读取 .tpl/README.md、.tpl/template.json 和 .tpl/project.json。素材权利见 .tpl/docs/LICENSE.md 与 public/templates/zentra/sources.json。

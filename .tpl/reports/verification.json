@@ -1,0 +1,99 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-03T09:08:31.255Z",
+  "sourceCommit": null,
+  "sourceDigest": "9c0c3d9e9737b256234efeb04a08ec035ba5120badaa7076d62ed2321d841950",
+  "environment": {
+    "platform": "linux (local WSL; Linux filesystem)",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "install",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "install",
+        "--frozen-lockfile"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T09:04:40.718Z",
+      "finishedAt": "2026-11-03T09:04:42.509Z"
+    },
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T09:04:42.513Z",
+      "finishedAt": "2026-11-03T09:04:45.659Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T09:04:45.661Z",
+      "finishedAt": "2026-11-03T09:04:49.785Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T09:04:49.789Z",
+      "finishedAt": "2026-11-03T09:04:50.696Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T09:04:50.699Z",
+      "finishedAt": "2026-11-03T09:05:11.314Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "checkedAt": "2026-11-03T09:05:13.186Z",
+      "stopped": true
+    }
+  ],
+  "limitations": [
+    "本报告 passed 仅指合同中安装、类型、Lint、单元测试、构建与生产候选服务检查，不代表逐帧视觉相似度验收。",
+    "三端十二张截图及 320px 溢出检查已执行；全部原站页面在全部设备的动效轨迹、时长、悬浮、拖拽回弹与减少动态效果仍未逐项完成对照，不能声称完整动效验收通过。",
+    "参考站的服务、作品、十篇文章与政策已读取；中文作语义适配，政策按演示站行为修正；字体遵循模板要求的 MiSans 与 Poppins，和原站 Boldonse 存在有意差异。",
+    "图片与参考设计尚未取得商业再分发授权，listed=false。未部署，未发布源码 ZIP。",
+    "开发预览仍在本地 3061 端口运行；已停止本次生产候选实例 3062。"
+  ]
+}

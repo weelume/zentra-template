@@ -1,0 +1,677 @@
+{
+  "reference": "https://zeentra.framer.website/",
+  "assets": [
+    {
+      "file": "assets/ref-sz2Xyg1cYza38xytObsnU5cNfg.jpg",
+      "url": "https://framerusercontent.com/images/sz2Xyg1cYza38xytObsnU5cNfg.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/serenva-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "02935c52e29df6500fb982d2dae2e1addc6827f4790623f45b969d1781b4ef43"
+    },
+    {
+      "sha256": "d4f0b25cc0d8e3f8e3819fae03d84cabc35dd69ede4aed78e129b4e411817471",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/service-brand.svg",
+      "url": "https://framerusercontent.com/images/TbwVAL3nmCoUvAkSi50PfLe4.svg"
+    },
+    {
+      "file": "assets/ref-7BhTwibDslDJbF2ph2MG7uEj4.png",
+      "url": "https://framerusercontent.com/images/7BhTwibDslDJbF2ph2MG7uEj4.png",
+      "sourcePage": "https://zeentra.framer.website/work/astra-glow",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "0b255839bf670d42070fc21c8fb2c3a092717d8f3f094cec93b0e72c03916f1a"
+    },
+    {
+      "file": "assets/ref-IY7rxUtpUUN6HvIlZTVQQqkA.jpg",
+      "url": "https://framerusercontent.com/images/IY7rxUtpUUN6HvIlZTVQQqkA.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/building-an-omnichannel",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "e68f8ef84c1de77c009e4232f95c47985daaea48e9909e94901a064997bb5c93"
+    },
+    {
+      "file": "assets/ref-HTixcSUosOj4LCs9kskLqERLbo.jpg",
+      "url": "https://framerusercontent.com/images/HTixcSUosOj4LCs9kskLqERLbo.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/from-idea-to-iconic-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "6df4ec066ed3341ad3433d32d87e6781c739ae153b21024c11b5182a9f1bff16"
+    },
+    {
+      "file": "assets/seo-3.png",
+      "url": "https://framerusercontent.com/images/ziFPyidG9dN1ZXK8MF3wcc6hTmI.png",
+      "sourcePage": "https://zeentra.framer.website/services/seo-digital-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8f363f4556276ce79eb38b8aee32e6911978a9b60c9eea0d812a588007387d5e"
+    },
+    {
+      "sha256": "929c06813406f7d17f896e5a6bcd0790853737d78eb8eb3ef71bdce53116d442",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-5.png",
+      "url": "https://framerusercontent.com/images/qDU0zj2YSIxDaA6YW19aKKGWv1Q.png"
+    },
+    {
+      "file": "assets/ref-Td22GKdWajSxNY5n7dWsXwVBEE.jpg",
+      "url": "https://framerusercontent.com/images/Td22GKdWajSxNY5n7dWsXwVBEE.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/celeste-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c77dfd8893c98e8186696d3b9955eae04e88ef4a8ed6e580ecdc6b064ffa4d09"
+    },
+    {
+      "file": "assets/ref-3l5IY26Ogt2zDijgBLkjnuhHyc.jpg",
+      "url": "https://framerusercontent.com/images/3l5IY26Ogt2zDijgBLkjnuhHyc.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/celeste-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "04a7e24203a0598be5b0b5953843a917130c8f72aecffaad79689fd6bb6fd5ec"
+    },
+    {
+      "sha256": "dfff3c1e92c8e19a1eee2e216e92a90a226a5b0c10939fbcb6c6a7b392a8b165",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/hero-robot.svg",
+      "url": "https://framerusercontent.com/images/D76fksoewqj1qpkY87NtVx2Y0RU.svg"
+    },
+    {
+      "file": "assets/ref-JLP6RGBIc6VciUtU5ZnZelBOAs.jpg",
+      "url": "https://framerusercontent.com/images/JLP6RGBIc6VciUtU5ZnZelBOAs.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/elysia-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9870603e905999dcb975deb8e6697c1661835a843a54eb9437ee4df61a817cf7"
+    },
+    {
+      "file": "assets/ref-aBYorglPh2JELGUGr3KbtEu2nKM.jpg",
+      "url": "https://framerusercontent.com/images/aBYorglPh2JELGUGr3KbtEu2nKM.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/branding-creative-design",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "89c2310b37871e89edc941c7d950a44f6c6f25a40b5a87b9d3734012fce04baa"
+    },
+    {
+      "file": "assets/blog-8.png",
+      "url": "https://framerusercontent.com/images/GsfoRGgKXmYM0B9Np2OVmfPzA.png",
+      "sourcePage": "https://zeentra.framer.website/blog/turning-audiences",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4fe4f6bcf9b20b1322152f29016db3422528d6d04f8fdf0c046b51ab115851bc"
+    },
+    {
+      "file": "assets/ref-4jhpPKmanNnAt6m0fos0mbMlyqg.jpg",
+      "url": "https://framerusercontent.com/images/4jhpPKmanNnAt6m0fos0mbMlyqg.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/nova-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "fdf9a193c9763dcc8d2c210f760b0c8d2ac2d2b1ed2be4f83ec012f7ead58269"
+    },
+    {
+      "file": "assets/ref-93DkmIvvBQzHuiNwT84qb8FqJ4.jpg",
+      "url": "https://framerusercontent.com/images/93DkmIvvBQzHuiNwT84qb8FqJ4.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/nova-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d8899f922b8f5b252c79c489da6a9f943a36925ed3f373a142ee459ad41213a3"
+    },
+    {
+      "file": "assets/work-1.png",
+      "url": "https://framerusercontent.com/images/MXDrMwFk0UtHXWi3bKIbDvTL6I.png",
+      "sourcePage": "https://zeentra.framer.website/work/astra-glow",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "cea6a41b4c126cd5fab7290fbcd2a6ea6fe7c640001f19f3077a49b571cf8401"
+    },
+    {
+      "file": "assets/ref-jmiA6nyKBYSghfTqVJf70qxjoW0.jpg",
+      "url": "https://framerusercontent.com/images/jmiA6nyKBYSghfTqVJf70qxjoW0.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/lunara-bloom",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2d49835081f2ebf6005e721da65a3329d97d6ec5db3b0fd7c7485c3f3c5cfc04"
+    },
+    {
+      "file": "assets/seo-2.png",
+      "url": "https://framerusercontent.com/images/yNiiGetEXRhLsOg1naIGO7Wk.png",
+      "sourcePage": "https://zeentra.framer.website/services/seo-digital-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "37ce78a6a4cb5d42105fcd1000b3e280bd42b8c082675e823c14d4b4531032ae"
+    },
+    {
+      "file": "assets/ref-ZjueT3vnilZd0RwAjDozEwQJiDA.jpg",
+      "url": "https://framerusercontent.com/images/ZjueT3vnilZd0RwAjDozEwQJiDA.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/elysia-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "cffdf766fc322ece7131d2049f07aa58f2517976e35f8065d000b7fbcfda07dd"
+    },
+    {
+      "sha256": "cf7bd9e3ab86363987fa58dbfd04bcd1720eb54b7ec8e83ca12c2fef524cfb5e",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/quote-3.png",
+      "url": "https://framerusercontent.com/images/sKMsrGcl4pfkimrAoRxCEGMmC0.png"
+    },
+    {
+      "file": "assets/blog-9.png",
+      "url": "https://framerusercontent.com/images/HCzCKUCGdbxLylv6jFalfq9rUU.png",
+      "sourcePage": "https://zeentra.framer.website/blog/from-idea-to-iconic-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ca1e99b4a71d44075922fdf9e15c481530946aad6221a820b1d16d8890d6e941"
+    },
+    {
+      "file": "assets/ref-K61R6Ncc35xRH5jHoTSxMXr9Yk.jpg",
+      "url": "https://framerusercontent.com/images/K61R6Ncc35xRH5jHoTSxMXr9Yk.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/branding-creative-design",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2e83bf3c8a012f6b056ff3372e3306a6a7da9fdae42eb4ff0c5b2abaa5f7a3d2"
+    },
+    {
+      "file": "assets/blog-10.png",
+      "url": "https://framerusercontent.com/images/YpZCzJqnfPZz8u1r2DExIQ0PFA.png",
+      "sourcePage": "https://zeentra.framer.website/blog/building-an-omnichannel",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "7d431da8e2bdadf5cfbd760b56de067d4f2928b21779106429093114995dc17e"
+    },
+    {
+      "file": "assets/ref-GaJ4qTWR9vmpoeoFpT2Og7i744I.jpg",
+      "url": "https://framerusercontent.com/images/GaJ4qTWR9vmpoeoFpT2Og7i744I.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/elysia-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "69a92b3df259f291bcd90def45c2a773ff51e3a0ab936474ca82fdaf11dc4cf4"
+    },
+    {
+      "file": "assets/ref-e6X8VtcahBTvw9JbKdHeD5R8E.jpg",
+      "url": "https://framerusercontent.com/images/e6X8VtcahBTvw9JbKdHeD5R8E.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/how-to-grow-your-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "445c35437c25f0a9ba792fb4145e063e8cd149e5d84422f0360eef904bd41ad5"
+    },
+    {
+      "sha256": "702420ce3f75c54c6faaf7003e31d9323b2b57a1b04e51205031c3bcfe15a6e5",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-3.png",
+      "url": "https://framerusercontent.com/images/tgd5wQDlNQzUI8MoFTzoL0uck8.png"
+    },
+    {
+      "file": "assets/seo-4.png",
+      "url": "https://framerusercontent.com/images/pAhJdW5D7FI0TkeDuYgvTidNKU.png",
+      "sourcePage": "https://zeentra.framer.website/services/seo-digital-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "21f2b1feeb8a1b1fd69fd047e3e61de61f63c25e5cba176fe19294e5e1195ff5"
+    },
+    {
+      "file": "assets/blog-3.png",
+      "url": "https://framerusercontent.com/images/zO5WonfF4q56KA6XrRYPf3Ks.png",
+      "sourcePage": "https://zeentra.framer.website/blog/how-to-grow-your-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4c3f4c8344ed86323040432c876f4df3ed6fe757ec74b1ca2d07e7ed21ecd533"
+    },
+    {
+      "file": "assets/ref-svSQc9zCCW8uoeKOIN4Ug9B9SDc.jpg",
+      "url": "https://framerusercontent.com/images/svSQc9zCCW8uoeKOIN4Ug9B9SDc.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/turning-audiences",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a941f69a3f3e742e7b82093fef8c19bd1dc4a6db4684a0f20f41d8dc2bf65278"
+    },
+    {
+      "file": "assets/ref-sBLxOeuyxMrs7OoaudEhJM05oFs.png",
+      "url": "https://framerusercontent.com/images/sBLxOeuyxMrs7OoaudEhJM05oFs.png",
+      "sourcePage": "https://zeentra.framer.website/blog/the-future-of-digital-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "75d34df505ddc829057c7b70a246fc84b9e327b33f7f9bbd567a409e5f5e57fa"
+    },
+    {
+      "file": "assets/ref-Cst2TvUmDHJ3tciNO2Ghkl4maJs.jpg",
+      "url": "https://framerusercontent.com/images/Cst2TvUmDHJ3tciNO2Ghkl4maJs.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/serenva-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5ea79d4f5e85588c7bbb822246e3651af88103a22d2dfa674fbd04d18aee6c9a"
+    },
+    {
+      "file": "assets/work-2.png",
+      "url": "https://framerusercontent.com/images/zmm6mWXMQvZkW9TrqCNNmyWPMg.png",
+      "sourcePage": "https://zeentra.framer.website/work/nova-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "06baedb2a42cf3221c70c1aa1874c6be3a7a247692f2fc4dbe607f9cf72395a1"
+    },
+    {
+      "file": "assets/ref-9viNh1Ddi1iZDYMraY3CuUOIc.jpg",
+      "url": "https://framerusercontent.com/images/9viNh1Ddi1iZDYMraY3CuUOIc.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/nova-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "7b246cc1acfb4d11d57805cb3520227f2b4846556fe33fbbed01febd9204f765"
+    },
+    {
+      "file": "assets/ref-wocJ7V9dUwTZU1MYAnQoQSM.jpg",
+      "url": "https://framerusercontent.com/images/wocJ7V9dUwTZU1MYAnQoQSM.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/mastering-client-relationships",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d29681e34182d9498d3320f4c1aa4dd928dd69c7e883d2352464ace95ec25e00"
+    },
+    {
+      "file": "assets/ref-JVklaATrsC2tKa21o5DvuAxnb8.jpg",
+      "url": "https://framerusercontent.com/images/JVklaATrsC2tKa21o5DvuAxnb8.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/why-seo-still-matters",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d60023dca0c25780742adbb0048439471c5ad7df30406fdff555d375df230d3a"
+    },
+    {
+      "file": "assets/ref-FOy7XmZVBSxvP0Od42yyxLewBA.jpg",
+      "url": "https://framerusercontent.com/images/FOy7XmZVBSxvP0Od42yyxLewBA.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/social-media-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "70e1afe26e08f4be35223e45e6c760acd8fd87a644fdf2f25e67dfeb5f63148c"
+    },
+    {
+      "file": "assets/blog-6.png",
+      "url": "https://framerusercontent.com/images/hI2JreMQlFxEUyeD6XM0N5WQk.png",
+      "sourcePage": "https://zeentra.framer.website/blog/why-seo-still-matters",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5a3be81707db38a2fca294a4cf6db3d2c30c1c09a4f72144b8865213ebdcfc84"
+    },
+    {
+      "file": "assets/ref-vDxSyIBXaprLpSRjQl5fFnWxWJ8.jpg",
+      "url": "https://framerusercontent.com/images/vDxSyIBXaprLpSRjQl5fFnWxWJ8.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/paid-advertising",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "ba5142673f13e944ba8bc1f655d895a66860b4e63145f922a51b5e875f624c2a"
+    },
+    {
+      "file": "assets/blog-5.png",
+      "url": "https://framerusercontent.com/images/JxAym6ORboHNv2HNrJWhDhKksI.png",
+      "sourcePage": "https://zeentra.framer.website/blog/creating-a-strong-brand-presence",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "bad841f370949d14900c2b72a3c81741cf20ddfd2390c4d6bdaccf06cb5b817f"
+    },
+    {
+      "file": "assets/work-6.png",
+      "url": "https://framerusercontent.com/images/C8QGj3mn8xuHvAdDnf5HkLKns.png",
+      "sourcePage": "https://zeentra.framer.website/work/lunara-bloom",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "e3a667766d20674de696a11619c5f2f42e313e88c169bfa5a1c43d083f5cc6b7"
+    },
+    {
+      "sha256": "d3c3876bb15f296f7163c0fec3edb6fd7fd5323e276cf3f97aca716d73e8a9ce",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-2.png",
+      "url": "https://framerusercontent.com/images/oHq8eNbsj5cXSeWbqDLCUMzxoyk.png"
+    },
+    {
+      "sha256": "2ec49dea60a1a45d0fa70adbb85e55a3ce88d1ee3206eabef2a3b4a354b17cb7",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/quote-2.png",
+      "url": "https://framerusercontent.com/images/cR43V4CTirzb30HZzsSYkjkxqE.png"
+    },
+    {
+      "sha256": "ba97104a570ebfb3f93af1862368fcf22a49f094eafd3c1b15d78f83ea372c7b",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-7.png",
+      "url": "https://framerusercontent.com/images/sbefdbnEA3tSmAW1onjwvQuX1jw.png"
+    },
+    {
+      "file": "assets/blog-1.png",
+      "url": "https://framerusercontent.com/images/vSYQk6wWvuKGsWpjFWEfRzpTLkU.png",
+      "sourcePage": "https://zeentra.framer.website/blog/the-future-of-digital-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b06d4c2b68fdf709c1f00d9bd4ac6c628bb32a8c888fceb68be876c6fa0adfc7"
+    },
+    {
+      "file": "assets/ref-VAtNjQEVLCS41BnKLaB1AS72mes.png",
+      "url": "https://framerusercontent.com/images/VAtNjQEVLCS41BnKLaB1AS72mes.png",
+      "sourcePage": "https://zeentra.framer.website/work/astra-glow",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b37707988aacbbd15885be5c73dd3e49e9fb931c6ee08446c83f8c31f6be4ff4"
+    },
+    {
+      "file": "assets/ref-Mpjs6MRIcWOBP0t0wdQ71QWm4.jpg",
+      "url": "https://framerusercontent.com/images/Mpjs6MRIcWOBP0t0wdQ71QWm4.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/nova-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "49180e7d4f908fe643aca721bb64419c8b10f902cf0486da66dae275f0f10c1a"
+    },
+    {
+      "file": "assets/blog-7.png",
+      "url": "https://framerusercontent.com/images/fEfE1Ffey4QrhTnatibUetyPa0c.png",
+      "sourcePage": "https://zeentra.framer.website/blog/branding-made-simple",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a2b49727b9336c60f92b842955817c6b1cd7bdf993f5faa4cf69c1b31f761f54"
+    },
+    {
+      "sha256": "0cbc405a22542b88da402f9c210ec30165a5610a6ab8e5e1e78ab728939c8768",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-8.png",
+      "url": "https://framerusercontent.com/images/Ejkv7HZKERWyR4m37vMxGr3xwA.png"
+    },
+    {
+      "file": "assets/blog-4.png",
+      "url": "https://framerusercontent.com/images/9Bm96Eiftzqg8HM2rKW9xcg4c.png",
+      "sourcePage": "https://zeentra.framer.website/blog/how-to-build-a-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "96403c2b4af83c1c51f81c4e24e6b706caebd6c6f8a79419b0e44615a2f9271f"
+    },
+    {
+      "file": "assets/work-4.png",
+      "url": "https://framerusercontent.com/images/JICyB7guoDFBkVoxrLlsfEykY.png",
+      "sourcePage": "https://zeentra.framer.website/work/elysia-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "4c97316a3f1268471ce6eedbd5fa4b265aa75339a002e02148d84cd2f227a771"
+    },
+    {
+      "file": "assets/ref-R8j5H1Mab9pmBDb4E0joyxTH0Y.jpg",
+      "url": "https://framerusercontent.com/images/R8j5H1Mab9pmBDb4E0joyxTH0Y.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/why-seo-still-matters",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "916ac07eb4eef0d3a7e7384270e68b6b33a9318883ce49d50e3fcd0020f972ff"
+    },
+    {
+      "file": "assets/ref-8utzwiUgnf5iZhJQSF1AF3UQLJ0.jpg",
+      "url": "https://framerusercontent.com/images/8utzwiUgnf5iZhJQSF1AF3UQLJ0.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/how-to-grow-your-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "daef748e987fce8d46c09a3c7e53943867713d594a65875908913aca40b6dd43"
+    },
+    {
+      "file": "assets/ref-4l3HYtUwlHDLZjKjumsR87eBDg.jpg",
+      "url": "https://framerusercontent.com/images/4l3HYtUwlHDLZjKjumsR87eBDg.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/branding-creative-design",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2a05d133c400aa93b4de6afe8b37ac24cfd17677ed4c83781dccf18b04208faa"
+    },
+    {
+      "file": "assets/ref-td8ETwT5EYJtMQiWbxxqtqRjyq0.jpg",
+      "url": "https://framerusercontent.com/images/td8ETwT5EYJtMQiWbxxqtqRjyq0.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/from-idea-to-iconic-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "17d4159bf767d0f613748ddf76378a9b741a1c0d76d1f06941fa703e651b55df"
+    },
+    {
+      "sha256": "ba2fe3134b2c2b2b64e272da03bbd8ed576e960f9685d509093ce9f8b6d0dab6",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/about-3.jpg",
+      "url": "https://framerusercontent.com/images/6aJu9Ifi1nsSTuJOhOWIxPHF8.jpg"
+    },
+    {
+      "file": "assets/ref-AexWIexw9UpERMoGGpFrGc5Do.jpg",
+      "url": "https://framerusercontent.com/images/AexWIexw9UpERMoGGpFrGc5Do.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/lunara-bloom",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "cd8d5ae011b84d9fdf2e892e303cae47c5e02b55f3bda7d627bc4dbbf71bd6aa"
+    },
+    {
+      "file": "assets/ref-GYlrMWZMLRl4f6DOycwqZW3jNQ.jpg",
+      "url": "https://framerusercontent.com/images/GYlrMWZMLRl4f6DOycwqZW3jNQ.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/serenva-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "109b609a364c17d2ee5fec2aa9daa359e9d8845e3893f245ab25d42ea1f64257"
+    },
+    {
+      "sha256": "de3de26d69786f381b7ce6e85cbb41705eb5bfec270d6e9ccaefc00fc1ee157d",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-1.png",
+      "url": "https://framerusercontent.com/images/3dTJtWynb0GRAuO1pnS8QEwN3Y.png"
+    },
+    {
+      "sha256": "2ffd9235a3cc15bbd08edad42da67821a69551bc5320c5524d32bab2e47efb62",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-6.png",
+      "url": "https://framerusercontent.com/images/kfb7R4KHkXA4aN7vhCbUoVhms.png"
+    },
+    {
+      "sha256": "e240b7b4d15137f945194e85a68edded1fd6c3b74d3d66ca59a88c8c730e68da",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/service-social.svg",
+      "url": "https://framerusercontent.com/images/Qi6rFCH6DfkbgZT3dhKF6Nc70YE.svg"
+    },
+    {
+      "file": "assets/blog-2.png",
+      "url": "https://framerusercontent.com/images/LRW8nlBv0oB8zT9NgDDDqOx9d7Q.png",
+      "sourcePage": "https://zeentra.framer.website/blog/mastering-client-relationships",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d8974d5dfbc9544a892c1e7fb4b7802a4d312551159710ebe064a7caa1b92ae0"
+    },
+    {
+      "sha256": "f198c14b1d8c42c3759359e74aa77fbc670fc110713cd7fe2d219fe61e91face",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/hero-dots.png",
+      "url": "https://framerusercontent.com/images/AWMIgWK3TKYddF2nKX23L8sYM.png"
+    },
+    {
+      "file": "assets/ref-ulhRUCjEF4B1JMnb8d7wUtmfuYo.jpg",
+      "url": "https://framerusercontent.com/images/ulhRUCjEF4B1JMnb8d7wUtmfuYo.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/building-an-omnichannel",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "d22bb775e5cf8a4c2cebc573111632d0974dcd181004e48db9df35bfdf4d7470"
+    },
+    {
+      "file": "assets/ref-DH33JbhTs2DjzpQHSyuxqTvqn2A.png",
+      "url": "https://framerusercontent.com/images/DH33JbhTs2DjzpQHSyuxqTvqn2A.png",
+      "sourcePage": "https://zeentra.framer.website/blog/the-future-of-digital-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "27f95d9245e536959140bb70c57ecaf2563fe3eaa81d9aa79b809d1ab37c9512"
+    },
+    {
+      "file": "assets/ref-kphRgt13nUhN2HhhEhIqbziWCYI.jpg",
+      "url": "https://framerusercontent.com/images/kphRgt13nUhN2HhhEhIqbziWCYI.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/branding-creative-design",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "0179e793894911d2c9d261790963a3386a0d6a5835b74f34d7262d7f0db4d07b"
+    },
+    {
+      "file": "assets/ref-IPzmM1yE6tUXmaCWn4NXsgIfYyU.jpg",
+      "url": "https://framerusercontent.com/images/IPzmM1yE6tUXmaCWn4NXsgIfYyU.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/social-media-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "444a01aff178913ee65d1ccfd02a97dd65fd06edf7807dfdbeadc94b59687beb"
+    },
+    {
+      "file": "assets/ref-gBrjuZ4NTdYgn8QSqfKeBdr2y0o.jpg",
+      "url": "https://framerusercontent.com/images/gBrjuZ4NTdYgn8QSqfKeBdr2y0o.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/social-media-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2aa654c179702d4f144587d340eb8e036e95c70d704b83e04f18afd3b78d0fde"
+    },
+    {
+      "file": "assets/ref-SEmgLGixubH5CvYcaoVfGCaWCI.jpg",
+      "url": "https://framerusercontent.com/images/SEmgLGixubH5CvYcaoVfGCaWCI.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/branding-made-simple",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c3552cf31408f18e3bd98e8eaa0d0cce2a97e76395bc17ad07530ded87b7303f"
+    },
+    {
+      "file": "assets/ref-cFySp6AvnSNwOCvGQxpA7bQbDc.jpg",
+      "url": "https://framerusercontent.com/images/cFySp6AvnSNwOCvGQxpA7bQbDc.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/turning-audiences",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9e0c13ec677be01dd50767e712855d0beb2a16244f48cee44d7e447e7d7051a5"
+    },
+    {
+      "file": "assets/ref-nWvEvRhAIJnYCyB22zcVJ8u49k.jpg",
+      "url": "https://framerusercontent.com/images/nWvEvRhAIJnYCyB22zcVJ8u49k.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/how-to-build-a-brand",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2d7ba72fe6a7de745e6f0bd892e89cf60ead0972ae290ed21aac0a1f8e75a83e"
+    },
+    {
+      "file": "assets/ref-AZ9eKVIIEotK36Fs07ZeIFcglw.jpg",
+      "url": "https://framerusercontent.com/images/AZ9eKVIIEotK36Fs07ZeIFcglw.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/lunara-bloom",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9a4a4ad7168f7d857f58542076a16c5994a716628afbb7856cb26803ac7762eb"
+    },
+    {
+      "file": "assets/work-5.png",
+      "url": "https://framerusercontent.com/images/hiKjVqKwqBhYHJ0Zyu8APvaqF38.png",
+      "sourcePage": "https://zeentra.framer.website/work/serenva-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c3634202df571b1f476313699b01e3ed2cdc3d2c3bb9e67ea4fa5ff471b28fa4"
+    },
+    {
+      "file": "assets/ref-8tL9Ugx1oNnZz0n5DhdCUMZa88.jpg",
+      "url": "https://framerusercontent.com/images/8tL9Ugx1oNnZz0n5DhdCUMZa88.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/celeste-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9f8400c753de7f310b39ab684dd91fdc3ab9c2d9cca14e9f27162d457a322670"
+    },
+    {
+      "file": "assets/ref-hXgJMr3WzQSoPhhvMkCJ5zi5gk.png",
+      "url": "https://framerusercontent.com/images/hXgJMr3WzQSoPhhvMkCJ5zi5gk.png",
+      "sourcePage": "https://zeentra.framer.website/work/astra-glow",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "efb0c87487afac453310c280071a7d68925427a5a8e3f0f78b19c7ee0e391e86"
+    },
+    {
+      "sha256": "5567345d3babe69ce33c307441dc0d41f42e72cceaee271702851ab56db4e1b3",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/service-ads.svg",
+      "url": "https://framerusercontent.com/images/TeUnJzUCJFy8uOZRGs6bPAcmbzo.svg"
+    },
+    {
+      "file": "assets/ref-t9W9Xj7AFdj57SccrC9eZuxNFHE.jpg",
+      "url": "https://framerusercontent.com/images/t9W9Xj7AFdj57SccrC9eZuxNFHE.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/serenva-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "74f51af94c2943ea02d41e8988e4c1cc1b97ddf7ebb22a0806b69d82308be9e1"
+    },
+    {
+      "file": "assets/ref-YwnjP0vWz0cyTbmJKkZnF2w0.jpg",
+      "url": "https://framerusercontent.com/images/YwnjP0vWz0cyTbmJKkZnF2w0.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/celeste-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "39e661542895befab194459afee492eaef121cd3d5770e9f4121bda23284971e"
+    },
+    {
+      "sha256": "ed31b792d9a41d0c9af06dc935b3a7c0dfa3b324feb7e316c593ca3f4bdba589",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/about-2.png",
+      "url": "https://framerusercontent.com/images/LbG4ydRqZe2FYHMtnFZkiFJtC8.png"
+    },
+    {
+      "sha256": "b7e877b73379001ea8af9da5e2f8988ac6930177c3fcde680e4bd56e8b66e800",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/quote-1.png",
+      "url": "https://framerusercontent.com/images/07rL7lnrogVh2WkRDFATyBE7hzA.png"
+    },
+    {
+      "file": "assets/ref-VJnmEi8r8bGmfhPTj588uAxgntw.jpg",
+      "url": "https://framerusercontent.com/images/VJnmEi8r8bGmfhPTj588uAxgntw.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/elysia-cosmetics",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "610d43fe93db49c445e7af43677c4c971387ba1a2edded5cf2678741959dc51b"
+    },
+    {
+      "file": "assets/ref-bfC6ITn0mXJm5gAVte3RDIcRkc.jpg",
+      "url": "https://framerusercontent.com/images/bfC6ITn0mXJm5gAVte3RDIcRkc.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/branding-creative-design",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "82f33c2d0810671d9974a70697644f1db6cb536095c9a961fe75ba048295b7b5"
+    },
+    {
+      "file": "assets/ref-Hd7NfsowbBpHI7zguYxvXhajLA.png",
+      "url": "https://framerusercontent.com/images/Hd7NfsowbBpHI7zguYxvXhajLA.png",
+      "sourcePage": "https://zeentra.framer.website/services/paid-advertising",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9c4dbbe86dc7fda57985027a1054a3bb15ed797b1232130db375de35aac28b84"
+    },
+    {
+      "file": "assets/work-3.jpg",
+      "url": "https://framerusercontent.com/images/jCnBbZyJbjRZhOQnLMfnVTQJvDs.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/celeste-beauty",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "8ffcb07ca54009f0cb197f2ba0d172fe25f4a797ee2842d4aa7c4ddcfca34dcd"
+    },
+    {
+      "file": "assets/seo-main.png",
+      "url": "https://framerusercontent.com/images/qiG6EOwEoBKz8oeG6h9YHw9go.png",
+      "sourcePage": "https://zeentra.framer.website/services/seo-digital-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "653e56eda9613b5d9c579219e49ede36c02fac633a061786c4fb800d27a0f927"
+    },
+    {
+      "sha256": "af32db2831d14277536ea669aff727e353ff7f50135805865d21f4993712b421",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/team-4.png",
+      "url": "https://framerusercontent.com/images/U7j9bKDgunNVGTOAwX6JE9gG7c.png"
+    },
+    {
+      "file": "assets/ref-Wu9XGFhSeJYXGMZT3PAA2VdPeI.jpg",
+      "url": "https://framerusercontent.com/images/Wu9XGFhSeJYXGMZT3PAA2VdPeI.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/social-media-marketing",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "c1618308f6d195e5e0dce4050f630bafbd153fb1054bd128fdb54605874dc4e8"
+    },
+    {
+      "file": "assets/ref-CGYWv8uSgYNsRxJHtzTd94tQOY.jpg",
+      "url": "https://framerusercontent.com/images/CGYWv8uSgYNsRxJHtzTd94tQOY.jpg",
+      "sourcePage": "https://zeentra.framer.website/services/paid-advertising",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "b4daad158a65f8b00ce054bd5870308c5b99e89553912725683fe8d719e86021"
+    },
+    {
+      "sha256": "24c8196cf1e347048a931612af1c55ff06c8b630854ebb56921f2d2775935da0",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/inner-dots.png",
+      "url": "https://framerusercontent.com/images/JiHCiJJgdN4ysIp9BKXUh65u8.png"
+    },
+    {
+      "file": "assets/ref-69MN8INrD0G8MvAUK5YqvgMwY0.jpg",
+      "url": "https://framerusercontent.com/images/69MN8INrD0G8MvAUK5YqvgMwY0.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/mastering-client-relationships",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "2deadf986ab7798cec43f456a9ab09b787a6e42d64038d1f9b32a9071fcee57c"
+    },
+    {
+      "file": "assets/ref-zjIkaVYsbfzFdZGSda00UO0tZqY.jpg",
+      "url": "https://framerusercontent.com/images/zjIkaVYsbfzFdZGSda00UO0tZqY.jpg",
+      "sourcePage": "https://zeentra.framer.website/work/lunara-bloom",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "5db0183dd708c607355f5e6fdc3d59586375e5e86e11e772bdb7b98aedddd1a9"
+    },
+    {
+      "file": "assets/seo-1.png",
+      "url": "https://framerusercontent.com/images/LFyeSIV81q0wfB3UoihmuYlQ.png",
+      "sourcePage": "https://zeentra.framer.website/services/seo-digital-strategy",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "9f2936ebf5a01461a21976e589ccfe6627b30c6f41ce8db566c0b9089beebad7"
+    },
+    {
+      "file": "assets/ref-LVBXZzguiJvKB9uArm8yMymsU8I.jpg",
+      "url": "https://framerusercontent.com/images/LVBXZzguiJvKB9uArm8yMymsU8I.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/creating-a-strong-brand-presence",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "253a803a456b7614adff53eb687a972009fa431e86623eae866cbd44346fd60b"
+    },
+    {
+      "file": "assets/ref-Av1emWb1ofQYpW2GgCWDvtnvGs.jpg",
+      "url": "https://framerusercontent.com/images/Av1emWb1ofQYpW2GgCWDvtnvGs.jpg",
+      "sourcePage": "https://zeentra.framer.website/blog/creating-a-strong-brand-presence",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "efad19132c26463fb0e259f51e33d1df9aef41893f95d257707a09e78c7b4d25"
+    },
+    {
+      "sha256": "2805a6b94e7aeb092a1cdb9c8ff3ee61ba1143a83d55c2bd3fada725c21ac740",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/about-1.png",
+      "url": "https://framerusercontent.com/images/tEGF0eGRKUW2L9cGN5SQgXUmek.png"
+    },
+    {
+      "sha256": "0651277338f98e66979b73f4b12bc0811bf50ba01e3a6f32fffa6f7523442baa",
+      "sourcePage": "https://zeentra.framer.website/",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "file": "assets/service-seo.svg",
+      "url": "https://framerusercontent.com/images/T1nJDQ6FGv3QidAJIjDXJJis2oU.svg"
+    },
+    {
+      "file": "assets/ref-gEFXGQf6vDK0bTvuGd21CdD08.png",
+      "url": "https://framerusercontent.com/images/gEFXGQf6vDK0bTvuGd21CdD08.png",
+      "sourcePage": "https://zeentra.framer.website/work/astra-glow",
+      "license": "参考站素材，仅用于复刻演示；未取得商业再分发授权",
+      "sha256": "a369319571ac5067024d6e018f7c59cdd87418ea5e711ce76488159cba68e062"
+    }
+  ]
+}

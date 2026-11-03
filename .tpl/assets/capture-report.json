@@ -1,0 +1,182 @@
+[
+  {
+    "device": "mobile",
+    "page": "home",
+    "path": "assets/mobile-home.webp",
+    "clientWidth": 380,
+    "scrollWidth": 380,
+    "title": "让你的品牌 \n被世界记住 ",
+    "viewport": {
+      "h": 844,
+      "w": 390
+    },
+    "visibleBroken": [],
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "services",
+    "path": "assets/mobile-services.webp",
+    "clientWidth": 380,
+    "scrollWidth": 380,
+    "title": "品牌服务 ",
+    "viewport": {
+      "h": 844,
+      "w": 390
+    },
+    "visibleBroken": [],
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "blog",
+    "path": "assets/mobile-blog.webp",
+    "clientWidth": 380,
+    "scrollWidth": 380,
+    "title": "品牌洞察 ",
+    "viewport": {
+      "h": 844,
+      "w": 390
+    },
+    "visibleBroken": [],
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "mobile",
+    "page": "contact",
+    "path": "assets/mobile-contact.webp",
+    "clientWidth": 380,
+    "scrollWidth": 380,
+    "title": "聊聊你的想法 ",
+    "viewport": {
+      "h": 844,
+      "w": 390
+    },
+    "visibleBroken": [],
+    "width": 380,
+    "height": 822
+  },
+  {
+    "device": "tablet",
+    "page": "home",
+    "path": "assets/tablet-home.webp",
+    "clientWidth": 824,
+    "scrollWidth": 824,
+    "title": "让你的品牌 \n被世界记住 ",
+    "viewport": {
+      "h": 1180,
+      "w": 834
+    },
+    "visibleBroken": [],
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "services",
+    "path": "assets/tablet-services.webp",
+    "clientWidth": 824,
+    "scrollWidth": 824,
+    "title": "品牌服务 ",
+    "viewport": {
+      "h": 1180,
+      "w": 834
+    },
+    "visibleBroken": [],
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "blog",
+    "path": "assets/tablet-blog.webp",
+    "clientWidth": 824,
+    "scrollWidth": 824,
+    "title": "品牌洞察 ",
+    "viewport": {
+      "h": 1180,
+      "w": 834
+    },
+    "visibleBroken": [],
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "tablet",
+    "page": "contact",
+    "path": "assets/tablet-contact.webp",
+    "clientWidth": 824,
+    "scrollWidth": 824,
+    "title": "聊聊你的想法 ",
+    "viewport": {
+      "h": 1180,
+      "w": 834
+    },
+    "visibleBroken": [],
+    "width": 824,
+    "height": 1166
+  },
+  {
+    "device": "desktop",
+    "page": "home",
+    "path": "assets/desktop-home.webp",
+    "clientWidth": 1430,
+    "scrollWidth": 1430,
+    "title": "让你的品牌 \n被世界记住 ",
+    "viewport": {
+      "h": 1000,
+      "w": 1440
+    },
+    "visibleBroken": [],
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "services",
+    "path": "assets/desktop-services.webp",
+    "clientWidth": 1430,
+    "scrollWidth": 1430,
+    "title": "品牌服务 ",
+    "viewport": {
+      "h": 1000,
+      "w": 1440
+    },
+    "visibleBroken": [],
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "blog",
+    "path": "assets/desktop-blog.webp",
+    "clientWidth": 1430,
+    "scrollWidth": 1430,
+    "title": "品牌洞察 ",
+    "viewport": {
+      "h": 1000,
+      "w": 1440
+    },
+    "visibleBroken": [],
+    "width": 1430,
+    "height": 993
+  },
+  {
+    "device": "desktop",
+    "page": "contact",
+    "path": "assets/desktop-contact.webp",
+    "clientWidth": 1430,
+    "scrollWidth": 1430,
+    "title": "聊聊你的想法 ",
+    "viewport": {
+      "h": 1000,
+      "w": 1440
+    },
+    "visibleBroken": [],
+    "width": 1430,
+    "height": 993
+  }
+]

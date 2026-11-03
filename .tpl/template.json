@@ -1,0 +1,328 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "zentra",
+  "version": "1.0.0",
+  "name": "Zentra · 数字营销",
+  "gitUrl": "https://github.com/weelume/zentra-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "数字营销",
+    "蓝白波浪",
+    "创意机构",
+    "双语",
+    "PC / iPad / H5"
+  ],
+  "summary": "蓝白数字营销整站，28 个双语页面，包含服务、作品、十篇洞察、团队、联系与政策演示。",
+  "accentColor": "#1769f1",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Zentra desktop home",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-services.webp",
+      "alt": "Zentra desktop services",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "Zentra desktop blog",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Zentra desktop contact",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Zentra tablet home",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-services.webp",
+      "alt": "Zentra tablet services",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "Zentra tablet blog",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Zentra tablet contact",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Zentra mobile home",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-services.webp",
+      "alt": "Zentra mobile services",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "Zentra mobile blog",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Zentra mobile contact",
+      "device": "mobile",
+      "width": 380,
+      "height": 822
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于我们",
+          "localizedTitles": {
+            "en": "about"
+          }
+        },
+        {
+          "slug": "services",
+          "title": "服务",
+          "localizedTitles": {
+            "en": "services"
+          }
+        },
+        {
+          "slug": "services/branding-creative-design",
+          "title": "branding-creative-design",
+          "localizedTitles": {
+            "en": "services/branding-creative-design"
+          }
+        },
+        {
+          "slug": "services/paid-advertising",
+          "title": "paid-advertising",
+          "localizedTitles": {
+            "en": "services/paid-advertising"
+          }
+        },
+        {
+          "slug": "services/seo-digital-strategy",
+          "title": "seo-digital-strategy",
+          "localizedTitles": {
+            "en": "services/seo-digital-strategy"
+          }
+        },
+        {
+          "slug": "services/social-media-marketing",
+          "title": "social-media-marketing",
+          "localizedTitles": {
+            "en": "services/social-media-marketing"
+          }
+        },
+        {
+          "slug": "work",
+          "title": "作品",
+          "localizedTitles": {
+            "en": "work"
+          }
+        },
+        {
+          "slug": "work/astra-glow",
+          "title": "astra-glow",
+          "localizedTitles": {
+            "en": "work/astra-glow"
+          }
+        },
+        {
+          "slug": "work/celeste-beauty",
+          "title": "celeste-beauty",
+          "localizedTitles": {
+            "en": "work/celeste-beauty"
+          }
+        },
+        {
+          "slug": "work/elysia-cosmetics",
+          "title": "elysia-cosmetics",
+          "localizedTitles": {
+            "en": "work/elysia-cosmetics"
+          }
+        },
+        {
+          "slug": "work/lunara-bloom",
+          "title": "lunara-bloom",
+          "localizedTitles": {
+            "en": "work/lunara-bloom"
+          }
+        },
+        {
+          "slug": "work/nova-cosmetics",
+          "title": "nova-cosmetics",
+          "localizedTitles": {
+            "en": "work/nova-cosmetics"
+          }
+        },
+        {
+          "slug": "work/serenva-beauty",
+          "title": "serenva-beauty",
+          "localizedTitles": {
+            "en": "work/serenva-beauty"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "品牌洞察",
+          "localizedTitles": {
+            "en": "blog"
+          }
+        },
+        {
+          "slug": "blog/branding-made-simple",
+          "title": "branding-made-simple",
+          "localizedTitles": {
+            "en": "blog/branding-made-simple"
+          }
+        },
+        {
+          "slug": "blog/building-an-omnichannel",
+          "title": "building-an-omnichannel",
+          "localizedTitles": {
+            "en": "blog/building-an-omnichannel"
+          }
+        },
+        {
+          "slug": "blog/creating-a-strong-brand-presence",
+          "title": "creating-a-strong-brand-presence",
+          "localizedTitles": {
+            "en": "blog/creating-a-strong-brand-presence"
+          }
+        },
+        {
+          "slug": "blog/from-idea-to-iconic-brand",
+          "title": "from-idea-to-iconic-brand",
+          "localizedTitles": {
+            "en": "blog/from-idea-to-iconic-brand"
+          }
+        },
+        {
+          "slug": "blog/how-to-build-a-brand",
+          "title": "how-to-build-a-brand",
+          "localizedTitles": {
+            "en": "blog/how-to-build-a-brand"
+          }
+        },
+        {
+          "slug": "blog/how-to-grow-your-brand",
+          "title": "how-to-grow-your-brand",
+          "localizedTitles": {
+            "en": "blog/how-to-grow-your-brand"
+          }
+        },
+        {
+          "slug": "blog/mastering-client-relationships",
+          "title": "mastering-client-relationships",
+          "localizedTitles": {
+            "en": "blog/mastering-client-relationships"
+          }
+        },
+        {
+          "slug": "blog/the-future-of-digital-marketing",
+          "title": "the-future-of-digital-marketing",
+          "localizedTitles": {
+            "en": "blog/the-future-of-digital-marketing"
+          }
+        },
+        {
+          "slug": "blog/turning-audiences",
+          "title": "turning-audiences",
+          "localizedTitles": {
+            "en": "blog/turning-audiences"
+          }
+        },
+        {
+          "slug": "blog/why-seo-still-matters",
+          "title": "why-seo-still-matters",
+          "localizedTitles": {
+            "en": "blog/why-seo-still-matters"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系",
+          "localizedTitles": {
+            "en": "contact"
+          }
+        },
+        {
+          "slug": "legal/privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "legal/privacy"
+          }
+        },
+        {
+          "slug": "legal/terms",
+          "title": "使用条款",
+          "localizedTitles": {
+            "en": "legal/terms"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "源码、参考设计、运行图片与字体分别说明；参考素材未取得商业再分发授权。",
+    "redistributionAllowed": false
+  },
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ]
+}
