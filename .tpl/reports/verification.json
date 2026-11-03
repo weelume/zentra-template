@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T09:08:31.255Z",
+  "checkedAt": "2026-11-03T13:29:58.319Z",
   "sourceCommit": null,
-  "sourceDigest": "9c0c3d9e9737b256234efeb04a08ec035ba5120badaa7076d62ed2321d841950",
+  "sourceDigest": "fe5359f5ed8bb1d30d095329ddff949a5aa1677116adc02f1f608682b8173842",
   "environment": {
     "platform": "linux (local WSL; Linux filesystem)",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T09:04:40.718Z",
-      "finishedAt": "2026-11-03T09:04:42.509Z"
+      "startedAt": "2026-11-03T13:27:02.158Z",
+      "finishedAt": "2026-11-03T13:27:03.295Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T09:04:42.513Z",
-      "finishedAt": "2026-11-03T09:04:45.659Z"
+      "startedAt": "2026-11-03T13:27:03.299Z",
+      "finishedAt": "2026-11-03T13:27:04.889Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T09:04:45.661Z",
-      "finishedAt": "2026-11-03T09:04:49.785Z"
+      "startedAt": "2026-11-03T13:27:04.893Z",
+      "finishedAt": "2026-11-03T13:27:07.895Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T09:04:49.789Z",
-      "finishedAt": "2026-11-03T09:04:50.696Z"
+      "startedAt": "2026-11-03T13:27:07.898Z",
+      "finishedAt": "2026-11-03T13:27:08.729Z"
     },
     {
       "id": "build",
@@ -77,15 +77,15 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T09:04:50.699Z",
-      "finishedAt": "2026-11-03T09:05:11.314Z"
+      "startedAt": "2026-11-03T13:27:08.733Z",
+      "finishedAt": "2026-11-03T13:27:27.473Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T09:05:13.186Z",
+      "checkedAt": "2026-11-03T13:27:29.273Z",
       "stopped": true
     }
   ],
