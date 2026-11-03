@@ -3,31 +3,18 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T14:52:50.909Z",
-  "sourceCommit": null,
-  "sourceDigest": "a1bbfeae32112bfa1d8c555143c2b8512cc87bcd915f1d778de7e10e21620fff",
+  "checkedAt": "2026-11-03T22:46:20.421Z",
+  "sourceCommit": "46e42a4c0d95c7018400e327b9c0865c3a42552b",
+  "sourceDigest": "66038b42b70fdd02d7fb2b81b9d299b523fcb78cfece7f7f14cc23b7c4ff8318",
   "environment": {
-    "platform": "linux (local WSL; Linux filesystem)",
+    "platform": "linux",
     "arch": "x64",
-    "node": "24.16.0",
+    "node": "v24.16.0",
     "packageManager": "pnpm@9.15.4",
-    "cleanDirectory": false,
-    "localGitClone": false
+    "cleanDirectory": true,
+    "localGitClone": true
   },
   "checks": [
-    {
-      "id": "install",
-      "cwd": ".",
-      "argv": [
-        "pnpm",
-        "install",
-        "--frozen-lockfile"
-      ],
-      "status": "passed",
-      "exitCode": 0,
-      "startedAt": "2026-11-03T14:43:57.573Z",
-      "finishedAt": "2026-11-03T14:43:58.887Z"
-    },
     {
       "id": "typecheck",
       "cwd": ".",
@@ -38,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:43:58.891Z",
-      "finishedAt": "2026-11-03T14:44:01.512Z"
+      "startedAt": "2026-11-03T22:45:59.979Z",
+      "finishedAt": "2026-11-03T22:46:01.986Z"
     },
     {
       "id": "lint",
@@ -51,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:44:01.516Z",
-      "finishedAt": "2026-11-03T14:44:04.656Z"
+      "startedAt": "2026-11-03T22:46:01.986Z",
+      "finishedAt": "2026-11-03T22:46:03.767Z"
     },
     {
       "id": "test",
@@ -64,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:44:04.661Z",
-      "finishedAt": "2026-11-03T14:44:05.699Z"
+      "startedAt": "2026-11-03T22:46:03.767Z",
+      "finishedAt": "2026-11-03T22:46:04.560Z"
     },
     {
       "id": "build",
@@ -77,16 +64,16 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T14:44:05.703Z",
-      "finishedAt": "2026-11-03T14:44:26.044Z"
+      "startedAt": "2026-11-03T22:46:04.560Z",
+      "finishedAt": "2026-11-03T22:46:17.749Z"
     }
   ],
   "services": [
     {
       "id": "web",
       "status": "passed",
-      "checkedAt": "2026-11-03T14:44:28.686Z",
-      "stopped": true
+      "stopped": true,
+      "checkedAt": "2026-11-03T22:46:20.421Z"
     }
   ],
   "limitations": [
@@ -96,6 +83,7 @@
     "图片与参考设计尚未取得商业再分发授权，listed=false。未部署，未发布源码 ZIP。",
     "开发预览仍在本地 3061 端口运行；已停止本次生产候选实例 3062。",
     "已纠正由首页精选清单导致的两项作品详情遗漏，并补齐八组实际滚动计数；完整计数值、三端新增页和回归测试见work-catalog.json。",
-    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。"
+    "交互回归：实际指针拖拽、连续分页、短拖回弹或循环焦点暂停的证据见interaction-regressions.json。motion.json仍为incomplete，未用这些局部通过替代全部原站三端精确曲线与系统减少动态效果验收。",
+    "1.0.1仅优化图片体积与引用；本轮类型、Lint、已有测试、生产构建、双语页面及全部运行素材摘要检查通过，未重验完整动效。"
   ]
 }
