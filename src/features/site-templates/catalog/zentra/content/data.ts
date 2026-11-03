@@ -13,7 +13,7 @@ export const works = [
   {slug:'serenva-beauty',name:'Serenva Beauty',client:'Serenva',category:'UX',year:'2023',image:'work-5.webp'},
   {slug:'lunara-bloom',name:'Lunara Bloom',client:'Lunara',category:'EMAIL',year:'2024',image:'work-6.webp'},
   {"slug":"aviqa-beauty","name":"Aviqa Beauty","client":"Aviqa","category":"GRAPHIC","year":"2024","image":"ref-WSF8cIdwQHQGp0M28URgoWUCU.webp"},
-  {"slug":"aurielle-cosmetics","name":"Aurielle Cosmetics","client":"Aurielle","category":"EDITING","year":"2020","image":"work-4.webp"},
+  {"slug":"aurielle-cosmetics","name":"Aurielle Cosmetics","client":"Aurielle","category":"EDITING","year":"2020","image":"ref-JICyB7guoDFBkVoxrLlsfEykY.webp"},
 ]
 export const articles = [
   {slug:'the-future-of-digital-marketing',title:text('数字营销的未来','The Future of Digital Marketing'),year:'2023'},

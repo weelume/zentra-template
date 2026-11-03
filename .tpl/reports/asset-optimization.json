@@ -12,12 +12,12 @@
       "team": 640,
       "testimonial": 160
     },
-    "notes": "Limits reflect 2x rendered widths; no cropping or enlargement"
+    "notes": "Size limits reflect 2x rendered widths; no cropping or enlargement; duplicate source aliases retained to preserve gallery filtering semantics"
   },
   "originalFiles": 97,
-  "optimizedFiles": 96,
+  "optimizedFiles": 97,
   "originalBytes": 188692173,
-  "optimizedBytes": 30880372,
+  "optimizedBytes": 31112498,
   "records": [
     {
       "source": "about-1.png",
@@ -905,7 +905,7 @@
     },
     {
       "source": "ref-JICyB7guoDFBkVoxrLlsfEykY.png",
-      "file": "work-4.webp",
+      "file": "ref-JICyB7guoDFBkVoxrLlsfEykY.webp",
       "sourceSha256": "4c97316a3f1268471ce6eedbd5fa4b265aa75339a002e02148d84cd2f227a771",
       "sha256": "b646a5629eefcb943df25d9630d331bdff29325cd7275ea6993717a9869bc6ec",
       "originalBytes": 963524,
